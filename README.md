@@ -9,3 +9,11 @@ A bike-sharing system is a service in which bikes are made available for shared 
 Objective
 
 The obective of this case study was to model the demand for shared bikes with the available independent variables. It would be used by the management of 'Boom Bikes' to understand how exactly the demands vary with different features. They would accordingly manipulate the business strategy to meet the demand levels and customer's expectations.
+
+#conclusion
+
+# Train R-squire=0.82
+# Test R-squire=0.803
+# Train Adj-R-squire=0.815
+# Test Adj-R-squire=0.807
+#  seems a very good model.
